@@ -1,0 +1,14 @@
+#banner_post{
+    border: 0px solid black;
+}
+.fonting{
+    font-family: 'Times New Roman', Times, serif;
+}
+::-webkit-scrollbar {
+    width: 0px;
+  }
+.sliderimg{
+    width: 100%;
+    height: 50%;
+
+}  
